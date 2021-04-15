@@ -1,4 +1,4 @@
-$(".feeds.index").ready(function(){
+$(".feeds.myfeed").ready(function(){
 
   var currentUser;
 
